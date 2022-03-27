@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-api-crypto-tracker-v1/static/css/main.856c7c16.css",
+    "main.js": "/react-api-crypto-tracker-v1/static/js/main.5f6cf049.js",
+    "static/js/787.2a58c0a5.chunk.js": "/react-api-crypto-tracker-v1/static/js/787.2a58c0a5.chunk.js",
+    "index.html": "/react-api-crypto-tracker-v1/index.html",
+    "main.856c7c16.css.map": "/react-api-crypto-tracker-v1/static/css/main.856c7c16.css.map",
+    "main.5f6cf049.js.map": "/react-api-crypto-tracker-v1/static/js/main.5f6cf049.js.map",
+    "787.2a58c0a5.chunk.js.map": "/react-api-crypto-tracker-v1/static/js/787.2a58c0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856c7c16.css",
+    "static/js/main.5f6cf049.js"
+  ]
+}
